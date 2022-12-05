@@ -17,7 +17,20 @@ For more information and help on the stm32mp15 platform and environment, please 
 Xilinx Echo Test Example
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-`WIP document <https://drive.google.com/drive/u/0/folders/1CqerKYLfwtQu0cnDFa00wqwznCpBK5WO>`_ (Note Google doc access is currently restricted to working group members. To publish once it is sufficiently ready)
+Instruction to run echo_test demo on Xilinx ZynqMP zcu102 board or QEMU platform is available here:
+https://github.com/OpenAMP/openamp-system-reference/tree/main/examples/linux/rpmsg-echo-test
+
+Xilinx matrix multiplication Example
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Functionality and instructions to run this demo are available here:
+https://github.com/OpenAMP/openamp-system-reference/tree/main/examples/linux/rpmsg-mat-mul
+
+Xilinx proxy app Example
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+This demo is explained here:
+https://github.com/OpenAMP/openamp-system-reference/tree/main/examples/linux/rpmsg-proxy-app
 
 Multi RPMSG services demo
 -------------------------
